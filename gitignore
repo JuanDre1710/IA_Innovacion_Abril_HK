@@ -1,8 +1,4 @@
-echo ".idea/" >> .gitignore
-echo ".vs/" >> .gitignore
-echo "__pycache__/" >> .gitignore
-echo "*.pyc" >> .gitignore
-echo "*.vsidx" >> .gitignore
-echo "*.pyo" >> .gitignore
-echo ".DS_Store" >> .gitignore
-echo "Thumbs.db" >> .gitignore
+chroma_db/
+__pycache__/
+venv/
+*.pyc
